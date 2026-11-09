@@ -12,9 +12,6 @@ Based in Vietnam. Since 2021 I've built web and mobile products at [Digital Unic
 
 #### Selected work
 
-- **Content Factory** · *personal · in use*
-  A one-operator AI studio that turns a story idea into a scheduled YouTube video: research, script, art, voice, render, QA gates and a human approval step.
-  *Python · Remotion · FFmpeg · MCP*
 - **Agent workbench** · *prototype*
   One local web UI that runs Claude and Codex sessions side by side, with an editor, terminals and git guardrails.
   *Node.js · Hono · React*
